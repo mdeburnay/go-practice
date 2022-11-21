@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github/mdeburnay/go-practice/types"
 )
 
 func main() {
-	fmt.Println("Hello, World!")
+	types.SayHey()
 }
